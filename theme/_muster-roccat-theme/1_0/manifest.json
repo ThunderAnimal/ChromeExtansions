@@ -1,0 +1,33 @@
+{
+   "description": "",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgziDWW8hecgxqYe/PEsHrSh1q4m0jeHZl06P+M7byIbNmOfd4TR9PrDpf7MHfwA4wzJBiIbea0bZOmeg1a8+/9LOuqiemm5HmqmIX4t2gvCcMxfCYECXt7SITaJQVc0byrjhmGcaxFmXGSR0EMW+UykmegYW8GKSKJfLTJ6s7pO17gEqxMLK3yzBPeSKFZNw1Wg9avzKda4UJg4STydmJ00ISzmQviPLsnIal5zKu1b+8Dv7eeCPIf2yBBxLMdKZug+K9/lTVSV2uNUbQpjAWh8PSEeZkYPrOWZyRYeq40kigfrses28JVwg9YOILRx+QqRNgmralYayhqGlnkF64QIDAQAB",
+   "manifest_version": 2,
+   "name": "ROCCAT - Theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 255, 255, 255 ],
+         "button_background": [ 0, 0, 0, 0 ],
+         "frame": [ 0, 0, 0 ],
+         "ntp_background": [ 0, 0, 0 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 255, 255, 255 ],
+         "tab_text": [ 255, 255, 255 ],
+         "toolbar": [ 0, 0, 0 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_ntp_attribution": "images/theme_ntp_attribution.png",
+         "theme_ntp_background": "images/theme_ntp_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 1 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}
